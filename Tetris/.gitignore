@@ -1,1 +1,6 @@
 .vs/
+*.user
+*.suo
+
+bin/
+obj/
